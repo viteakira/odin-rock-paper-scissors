@@ -1,3 +1,5 @@
+alert("Hello! Open the terminal to see the results!");
+
 function getComputerChoice () {
     let value = Math.floor(Math.random() * 3);
     if (value == 0) {
