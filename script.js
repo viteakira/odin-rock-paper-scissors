@@ -23,6 +23,6 @@ console.log(getHumanChoice());
 let humanScore = 0;
 let computerScore = 0;
 
-function (comp, human) {
+function (computerChoice, humanChoice) {
     // TODO
 }
